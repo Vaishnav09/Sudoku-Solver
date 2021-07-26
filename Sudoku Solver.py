@@ -82,6 +82,7 @@ def solve(bo):
 
     return False
 
+
 print_board(board)
 solve(board)
 print("___________________")
